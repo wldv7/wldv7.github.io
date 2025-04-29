@@ -136,6 +136,6 @@ script = beautify(script, {
 	"indent_empty_lines": false
 });
 
-fs.writeFileSync("./build/game.js", script);
-console.log("Wrote ./build/game.js");
+fs.writeFileSync("./build/game.html", script);
+console.log("Wrote ./build/game.html");
 console.log("Build done");
