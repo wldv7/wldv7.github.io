@@ -48,4 +48,4 @@ __fx.clanFilter = clanFilter;
 __fx.wins = winCounter;
 __fx.customLobby = customLobby;
 
-console.log('Successfully loaded FX Client');
+console.log('Successfully loaded TTRM');
